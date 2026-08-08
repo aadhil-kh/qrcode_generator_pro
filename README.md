@@ -1,4 +1,4 @@
-# QR Code Generator Pro:Issue Tracker
+# QR Code Generator Pro - Issue Tracker
 
 > **This repository is the official issue tracker for [QR Code Generator Pro](https://apps.microsoft.com/detail/9nbxjxz6vr72) on the Microsoft Store.**
 > The app's source code is **not open source** and is not hosted here.
@@ -15,13 +15,13 @@
 
 ## Features
 
-- **20+ QR Code Types**:URL, WiFi, vCard (v2/v3/v4), MeCard, SMS, MMS, Phone, WhatsApp, Twitter, Skype, Slack, Facetime, Bitcoin, Monero, Geo-location, Events, Shadowsocks, IRC/IRCS/IRC6, and more
-- **Bulk QR Generation**:Generate multiple QR codes at once from a list of inputs
-- **Barcode Support**:Linear (UPC-A, EAN-13, EAN-8, CODE-39, CODE-128, CODABAR, ITF, MSI, PLESSEY) and Matrix (AZTEC, DataMatrix, PDF-417)
-- **Customizable Output**:Adjust PPM (pixels per module), dark/light colors, and resize to any dimension
-- **Multiple Export Formats**:PNG, JPEG, BMP, HEIF, and SVG
-- **100% Offline**:No internet connection needed, ever
-- **Modern UI**:Clean, intuitive design built for Windows
+- **20+ QR Code Types**: URL, WiFi, vCard (v2/v3/v4), MeCard, SMS, MMS, Phone, WhatsApp, Twitter, Skype, Slack, Facetime, Bitcoin, Monero, Geo-location, Events, Shadowsocks, IRC/IRCS/IRC6, and more
+- **Bulk QR Generation**: Generate multiple QR codes at once from a list of inputs
+- **Barcode Support**: Linear (UPC-A, EAN-13, EAN-8, CODE-39, CODE-128, CODABAR, ITF, MSI, PLESSEY) and Matrix (AZTEC, DataMatrix, PDF-417)
+- **Customizable Output**: Adjust PPM (pixels per module), dark/light colors, and resize to any dimension
+- **Multiple Export Formats**: PNG, JPEG, BMP, HEIF, and SVG
+- **100% Offline**: No internet connection needed, ever
+- **Modern UI**: Clean, intuitive design built for Windows
 
 ---
 
